@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fsade0
 - 👀 I’m interested in medicine,computer,software,sport...
-- 🌱 I’m currently learning html,css,js
+- 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fsade0
 
